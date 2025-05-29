@@ -5,7 +5,9 @@ The objective of this project is to create an interactive COVID-19 analysis dash
 This dashboard leverages a comprehensive dataset containing information on confirmed cases, cured individuals, deaths, vaccine administration details, and testing statistics across various states and demographic groups in India. By presenting this data in a clear and accessible format, the project aims to facilitate a better understanding of the COVID-19 landscape and support informed decision-making for public health initiatives.
 
 ## Tools used
-
+Microsoft Excel – For initial data cleaning, exploration, and basic analysis
+SQL – For querying data efficiently
+Tableau – For interactive data visualization, dashboards, and deriving business insights
 
 ## Key Questions:
 
