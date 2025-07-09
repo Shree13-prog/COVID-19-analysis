@@ -1,8 +1,8 @@
-# COVID-19-analysis
+# COVID-19-analysis Dashboard (INDIA)
 
 ## Objective
-The objective of this project is to create an interactive COVID-19 analysis dashboard that visualizes key epidemiological data to provide actionable insights into the pandemic's spread, vaccination efforts, and testing status. 
-This dashboard leverages a comprehensive dataset containing information on confirmed cases, cured individuals, deaths, vaccine administration details, and testing statistics across various states and demographic groups in India. By presenting this data in a clear and accessible format, the project aims to facilitate a better understanding of the COVID-19 landscape and support informed decision-making for public health initiatives.
+This project visualizes key COVID-19 metrics across Indian states using an interactive dashboard built in Tableau. The data covers aspects like total deaths, case trends, vaccination progress, age group distribution, and testing infrastructure across the country.
+The main goal of this project is to provide a clear and comprehensive visual analysis of India’s COVID-19 situation. By breaking down state-level metrics and national trends, the dashboard helps identify patterns and areas of focus for healthcare response and resource planning.
 
 ## Tools used
 - Microsoft Excel – For initial data cleaning, exploration, and basic analysis
