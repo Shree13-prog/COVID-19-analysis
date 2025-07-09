@@ -31,45 +31,45 @@ The main goal of this project is to provide a clear and comprehensive visual ana
 
 1. Total Deaths by State:
 
-Maharashtra recorded the highest number of deaths (~1.76M), followed by Gujarat (285K) and Andhra Pradesh (206K).
+- Maharashtra recorded the highest number of deaths (~1.76M), followed by Gujarat (285K) and Andhra Pradesh (206K).
 
-Northeast and smaller states showed significantly lower mortality counts.
+- Northeast and smaller states showed significantly lower mortality counts.
 
 2. COVID-19 Case Trends:
 
-Confirmed and cured cases followed exponential growth, especially from May onward.
+- Confirmed and cured cases followed exponential growth, especially from May onward.
 
-Deaths grew at a slower rate, indicating a relatively good recovery ratio.
+- Deaths grew at a slower rate, indicating a relatively good recovery ratio.
 
 3. Age Group Breakdown:
 
-Age groups 20–29 (24.86%) and 30–39 (21.10%) were most affected.
+- Age groups 20–29 (24.86%) and 30–39 (21.10%) were most affected.
 
-Children and the elderly accounted for a smaller share of total cases.
+- Children and the elderly accounted for a smaller share of total cases.
 
 4. Vaccine Doses Administered:
 
-Covaxin and Covishield were evenly distributed (7,621 doses each).
+- Covaxin and Covishield were evenly distributed (7,621 doses each).
 
-Sputnik V had a much smaller uptake (2,995 doses).
+- Sputnik V had a much smaller uptake (2,995 doses).
 
 5. First vs. Second Dose:
 
-A large gap was observed: First Dose (57B) vs. Second Dose (14B).
+- A large gap was observed: First Dose (57B) vs. Second Dose (14B).
 
-Indicates a need for follow-up drives to ensure complete vaccination.
+- Indicates a need for follow-up drives to ensure complete vaccination.
 
 6. ICMR Testing Labs:
 
-Maharashtra led with 39 labs, followed by Tamil Nadu (26) and Telangana (19).
+- Maharashtra led with 39 labs, followed by Tamil Nadu (26) and Telangana (19).
 
-Indicates a strong testing infrastructure in high-burden states.
+- Indicates a strong testing infrastructure in high-burden states.
 
 7. State-wise Testing Data:
 
-High total sample testing in states like Maharashtra, Tamil Nadu, and Uttar Pradesh.
+- High total sample testing in states like Maharashtra, Tamil Nadu, and Uttar Pradesh.
 
-Negative tests outnumbered positive tests in most states, suggesting broad surveillance.
+- Negative tests outnumbered positive tests in most states, suggesting broad surveillance.
 
 ## Stats at a Glance
 | Metric                     | Value                              |
