@@ -29,10 +29,59 @@ The main goal of this project is to provide a clear and comprehensive visual ana
 
 ## Key analysis & insights 
 
-- Maharashtra consistently appears as a highly impacted state across various metrics, leading in total deaths, ICMR testing labs, and overall testing volume. This indicates a significant COVID-19 burden and robust testing infrastructure in the region.
-- Vaccination efforts show a substantial gap between first and second doses administered, with first doses significantly outnumbering second doses. This suggests a need to accelerate the administration of second doses to achieve full vaccination coverage.
-- The age group 30-39 and 20-29 collectively represent a large portion of COVID-19 cases, highlighting the impact on the young adult and working-age population. Targeted public health messaging and vaccination campaigns for these demographics could be beneficial.
-- The overall trend of confirmed cases, cured cases, and deaths shows a continuous upward trajectory over the monitored period. This indicates an ongoing public health challenge requiring sustained intervention and monitoring.
+1. Total Deaths by State:
+
+Maharashtra recorded the highest number of deaths (~1.76M), followed by Gujarat (285K) and Andhra Pradesh (206K).
+
+Northeast and smaller states showed significantly lower mortality counts.
+
+2. COVID-19 Case Trends:
+
+Confirmed and cured cases followed exponential growth, especially from May onward.
+
+Deaths grew at a slower rate, indicating a relatively good recovery ratio.
+
+3. Age Group Breakdown:
+
+Age groups 20–29 (24.86%) and 30–39 (21.10%) were most affected.
+
+Children and the elderly accounted for a smaller share of total cases.
+
+4. Vaccine Doses Administered:
+
+Covaxin and Covishield were evenly distributed (7,621 doses each).
+
+Sputnik V had a much smaller uptake (2,995 doses).
+
+5. First vs. Second Dose:
+
+A large gap was observed: First Dose (57B) vs. Second Dose (14B).
+
+Indicates a need for follow-up drives to ensure complete vaccination.
+
+6. ICMR Testing Labs:
+
+Maharashtra led with 39 labs, followed by Tamil Nadu (26) and Telangana (19).
+
+Indicates a strong testing infrastructure in high-burden states.
+
+7. State-wise Testing Data:
+
+High total sample testing in states like Maharashtra, Tamil Nadu, and Uttar Pradesh.
+
+Negative tests outnumbered positive tests in most states, suggesting broad surveillance.
+
+📈 Stats at a Glance
+| Metric                     | Value                              |
+| -------------------------- | ---------------------------------- |
+| Total Deaths (Maharashtra) | ~1.76M                            |
+| Highest Vaccine Type Used  | Covaxin & Covishield (equal count) |
+| Most Affected Age Group    | 20–29 (24.86%)                     |
+| First Dose Administered    | 57B                                |
+| Second Dose Administered   | 14B                                |
+| Total ICMR Labs            | 267 labs across 34 states          |
+| State with Most Labs       | Maharashtra (39 labs)              |
+
 
 ## Recommendation:
 
