@@ -71,7 +71,7 @@ High total sample testing in states like Maharashtra, Tamil Nadu, and Uttar Prad
 
 Negative tests outnumbered positive tests in most states, suggesting broad surveillance.
 
-📈 Stats at a Glance
+## Stats at a Glance
 | Metric                     | Value                              |
 | -------------------------- | ---------------------------------- |
 | Total Deaths (Maharashtra) | ~1.76M                            |
@@ -93,4 +93,7 @@ Negative tests outnumbered positive tests in most states, suggesting broad surve
 
 ## Conclusion:
 
-The dashboard provides a comprehensive overview of the COVID-19 situation, revealing critical insights into case distribution, vaccination progress, and testing efforts across different states and demographics. While significant strides have been made in vaccination and testing, the persistent rise in cases and the disparity in dose administration underscore the need for sustained and targeted public health interventions. Addressing these areas effectively will be crucial in moving towards better control of the pandemic
+The dashboard provides a clear picture of the COVID-19 situation in India, illustrating how cases, vaccinations, and testing rates vary across states and age groups. While progress has been made in vaccines and testing, the rise in cases and the gap between first and second doses highlight the need for continued and focused public health efforts. Fixing these issues is key to better controlling the pandemic.
+
+
+
