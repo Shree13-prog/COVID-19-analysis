@@ -5,19 +5,27 @@ This project visualizes key COVID-19 metrics across Indian states using an inter
 The main goal of this project is to provide a clear and comprehensive visual analysis of India’s COVID-19 situation. By breaking down state-level metrics and national trends, the dashboard helps identify patterns and areas of focus for healthcare response and resource planning.
 
 ## Tools used
-- Microsoft Excel – For initial data cleaning, exploration, and basic analysis
-- SQL – For querying data efficiently
-- Tableau – For interactive data visualization, dashboards, and deriving insights
+- Microsoft Excel – For initial data cleaning, exploration.
+- SQL – For querying data efficiently.
+- Tableau – For interactive data visualization, dashboards, and deriving insights.
 
 ## Key Questions:
 
-1. What is the total number of deaths by state? 
-2. What are the details of COVID-19 cases by age group? 
-3. How have COVID-19 cases (confirmed, cured, and deaths) evolved over time by state/union territory? 
-4. How many doses have been administered for each vaccine type (CoviShield, Covaxin, Sputnik V)? 
-5. What is the comparison between the first and second doses administered? 
-6. What is the count of ICMR testing labs by state? 
-7. What are the state-wise details for negative tests, positive tests, and total samples? 
+1. What is the total number of deaths by state?
+
+2. How are COVID-19 cases distributed by age group?
+
+3. How have confirmed, cured, and death cases evolved over time?
+
+4. How many vaccine doses have been administered for Covishield, Covaxin, and Sputnik V?
+
+5. What is the gap between first and second doses administered?
+
+6. How many ICMR testing labs are there in each state?
+
+7. What are the state-wise details for negative tests, positive tests, and total samples?
+
+
 
 ## Key analysis & insights 
 
